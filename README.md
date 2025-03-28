@@ -1,8 +1,8 @@
 # Bitcoin Price Chart
 
-![btceee](https://github.com/user-attachments/assets/289b8bb3-acf1-4923-905f-e319470190b8)
-
 A sleek, interactive Bitcoin price chart with dark theme and mempool.space integration. Track Bitcoin's price across different time intervals with a responsive, canvas-based visualization.
+
+![btceee](https://github.com/user-attachments/assets/289b8bb3-acf1-4923-905f-e319470190b8)
 
 ## 🚀 Features
 
