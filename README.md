@@ -20,7 +20,8 @@ Check out the live demo: [https://saganaki22.github.io/BTC/](https://saganaki22.
 
 ## 📱 Screenshots
 
-![Bitcoin Chart Screenshot](https://i.ibb.co/placeholder-image/btc-chart-screenshot.png)
+![image](https://github.com/user-attachments/assets/f04d974a-38f2-44e6-be12-04f62afdc6a3)
+
 
 ## 💻 Technologies
 
